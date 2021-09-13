@@ -16,7 +16,7 @@ Data analysis on Summer Olympics held up to 2012
 ![image](https://user-images.githubusercontent.com/62534363/133028798-5f476289-d401-477b-9ecd-4b37556afca4.png)
 
 
-![image](https://user-images.githubusercontent.com/62534363/133028829-98ddd46a-bf88-4a61-b739-e3497805bae2.png)
+![image](https://user-images.githubusercontent.com/62534363/133029074-b36606e9-63a5-4413-ae97-884c0ee55506.png)
 
 
 ![image](https://user-images.githubusercontent.com/62534363/133028865-79c6dbe6-948f-4472-b533-b50a117584ff.png)
